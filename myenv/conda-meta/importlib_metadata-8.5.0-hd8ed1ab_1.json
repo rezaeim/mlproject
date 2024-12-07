@@ -1,0 +1,33 @@
+{
+  "build": "hd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "importlib-metadata >=8.5.0,<8.5.1.0a0"
+  ],
+  "extracted_package_dir": "/Users/Mehrdadi/anaconda3/pkgs/importlib_metadata-8.5.0-hd8ed1ab_1",
+  "files": [],
+  "fn": "importlib_metadata-8.5.0-hd8ed1ab_1.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/Users/Mehrdadi/anaconda3/pkgs/importlib_metadata-8.5.0-hd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "c70dd0718dbccdcc6d5828de3e71399d",
+  "name": "importlib_metadata",
+  "noarch": "generic",
+  "package_tarball_full_path": "/Users/Mehrdadi/anaconda3/pkgs/importlib_metadata-8.5.0-hd8ed1ab_1.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "204fc7f02be8acda93073f5126b9707b8847b673d4c6558db208973c92f9af3c",
+  "size": 9362,
+  "subdir": "noarch",
+  "timestamp": 1733223207000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-8.5.0-hd8ed1ab_1.conda",
+  "version": "8.5.0"
+}
